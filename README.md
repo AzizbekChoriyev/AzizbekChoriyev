@@ -31,14 +31,14 @@ I'm a Computer Engineering student and PHP Backend Developer passionate about bu
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzizbekChoriyev&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekChoriyev&layout=compact&theme=tokyonight)
 
 ### 📫 Connect With Me
 
-- Telegram: [@Azizbek](https://t.me/Azizbek)
-- Instagram: [My Profile](https://instagram.com/YOUR_USERNAME)
+- Telegram: [@Azizbek](https://t.me/fine_dev)
+- Instagram: [My Profile](https://instagram.com/xAzizbeck)
 
 ---
 
